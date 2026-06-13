@@ -101,7 +101,7 @@ int parsing(void){
 
 
 int main(void){
-	printf("ELLO M8\n");
+	printf("Scraping bay12games site...\n");
 	curling();
 	printf("Scraped bay12games site and saved to pagetop.html\n");
 	parsing();
